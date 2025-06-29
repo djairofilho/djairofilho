@@ -1,52 +1,53 @@
-
-<!--
-**djairofilho/djairofilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Olá! Eu sou Djairo Dantas
-
-🎓 Graduando em Ciência da Computação no [Insper](https://www.insper.edu.br/)  
-🧠 Apaixonado por **Machine Learning**, **Cibersegurança** e **Programação Competitiva**  
+<h1 align="center">👨‍💻 Djairo Filho</h1>
+<p align="center">
+  Desenvolvedor Full Stack | Cibersegurança | Blockchain | Medalhista na OBI
+</p>
 
 ---
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
-Sou um entusiasta da tecnologia que busca unir criatividade, lógica e impacto social. Gosto de transformar ideias em soluções reais através da programação e estou sempre explorando novas formas de aprendizado — especialmente com dados, segurança da informação e algoritmos eficientes.
+Sou um desenvolvedor **Full Stack** com experiência prática em **React**, **Node.js** e **Django**, apaixonado por transformar ideias em **soluções escaláveis e impactantes**. Tenho uma base sólida em algoritmos e estruturas de dados, impulsionada pela conquista da medalha de bronze na **Olimpíada Brasileira de Informática (OBI)**.
 
-📌 Me destaco em:
-- 🔐 Cibersegurança e boas práticas de software seguro
-- 🧠 Modelos de aprendizado de máquina e análise de dados
-- ⚔️ Programação competitiva — medalhista da OBI e adepto de desafios algorítmicos
+> Minha missão é desenvolver software de alta performance, com foco em usabilidade, segurança e impacto real.
 
 ---
 
-## 💼 Projetos em destaque
+### 🛠️ Tecnologias e Ferramentas
 
-- 🎰 **Fox Casino**  
-  Um conjunto de minigames com lógica, sorte e interação visual (mediapipe para capturar gestos).
-
-- 🧪 **Batalha Naval da Química**  
-  Um jogo educativo que ajuda no aprendizado da tabela periódica de forma divertida e interativa.
-
----
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/djairo-dantas-bb228022b/)
+- **Linguagens:** Python, JavaScript, C, C++, Java, Go, Solidity  
+- **Front-end:** React, Tailwind CSS  
+- **Back-end:** Node.js, Django, FastAPI  
+- **Banco de dados:** PostgreSQL, MongoDB, SQLite  
+- **DevOps:** Docker, Vercel  
+- **Segurança:** OWASP, burp suite, pentesting básico  
+- **Outros:** Web3, Git, REST APIs
 
 ---
 
-📫 *Sempre aberto a colaborações, desafios técnicos e boas conversas sobre tecnologia!*
+### 🏆 Conquistas e Atuação
 
+- 🥉 **Medalhista de Bronze na OBI** – destacando minha lógica e resolução de problemas.  
+- 🔐 **Membro da InsperSec** – identifiquei vulnerabilidades reais em aplicações utilizadas pelo Insper, aprimorando minha atenção à segurança no desenvolvimento.  
+- 🧱 **Participante da Blockchain Insper** – desenvolvendo aplicações descentralizadas e explorando tecnologias emergentes.  
+- 💻 Já atuei em projetos que integram **front-end moderno** com **back-end robusto**, sempre com foco em **código limpo, usabilidade e segurança**.
+
+---
+
+### 📈 Buscando oportunidades
+
+Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa aplicar minha visão analítica, paixão por tecnologia e dedicação a projetos com impacto real.
+
+---
+
+### 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-username)  
+- 📨 Email: djairo.seuemail@exemplo.com  
+- 🌐 Portfólio: [djairo.dev](https://djairo.dev) *(opcional, se tiver)*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
