@@ -42,9 +42,7 @@ Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa apli
 
 ### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-username)  
-- 📨 Email: djairo.seuemail@exemplo.com  
-- 🌐 Portfólio: [djairo.dev](https://djairo.dev) *(opcional, se tiver)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/djairo-dantas-bb228022b/)  
 
 ---
 
