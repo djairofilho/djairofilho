@@ -45,7 +45,3 @@ Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa apli
 - 💼 [LinkedIn](https://www.linkedin.com/in/djairo-dantas-bb228022b/)  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djairofilho&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
