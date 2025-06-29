@@ -47,5 +47,5 @@ Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa apli
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djairofilho&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
