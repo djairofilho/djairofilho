@@ -76,4 +76,3 @@ Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa apli
 
 ---
 
-⭐ *Sinta-se à vontade para se conectar ou colaborar em projetos open source!*
