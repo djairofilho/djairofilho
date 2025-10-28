@@ -72,7 +72,7 @@ Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa apli
 ###  Contato
 
 -  [LinkedIn](https://www.linkedin.com/in/djairo-dantas-bb228022b/)
--  [Portfólio](https://portifolio.djairodantas.com)
+-  [Portfólio](https://portfolio.djairodantas.com)
 
 ---
 
