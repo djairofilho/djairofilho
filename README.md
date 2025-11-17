@@ -5,14 +5,6 @@
 
 ---
 
-### Sobre mim
-
-Sou um desenvolvedor **Full Stack** com experiência prática em **React**, **Node.js** e **Django**, apaixonado por transformar ideias em **soluções escaláveis e impactantes**. Tenho uma base sólida em algoritmos e estruturas de dados, impulsionada pela conquista da medalha de bronze na **Olimpíada Brasileira de Informática (OBI)**.
-
-> Minha missão é desenvolver software de alta performance, com foco em usabilidade, segurança e impacto real.
-
----
-
 ### Tecnologias e Ferramentas
 
 #### Linguagens  
