@@ -64,12 +64,6 @@ Sou um desenvolvedor **Full Stack** com experiência prática em **React**, **No
 
 ---
 
-###  Buscando oportunidades
-
-Estou em busca de desafios como **desenvolvedor Full Stack**, onde eu possa aplicar minha visão analítica, paixão por tecnologia e dedicação a projetos com impacto real.
-
----
-
 ###  Contato
 
 -  [LinkedIn](https://www.linkedin.com/in/djairo-dantas-bb228022b/)
