@@ -47,15 +47,6 @@
 
 ---
 
-### Curiosidades
-
--  **Medalhista de Bronze na OBI** – destacando minha lógica e resolução de problemas.  
--  **Membro da InsperSec** – identifiquei vulnerabilidades reais em aplicações utilizadas pelo Insper, aprimorando minha atenção à segurança no desenvolvimento.  
--  **Participante da Blockchain Insper** – desenvolvendo aplicações descentralizadas e explorando tecnologias emergentes.  
--  Já atuei em projetos que integram **front-end moderno** com **back-end robusto**, sempre com foco em **código limpo, usabilidade e segurança**.
-
----
-
 ###  Contato
 
 -  [LinkedIn](https://www.linkedin.com/in/djairo-dantas-bb228022b/)
