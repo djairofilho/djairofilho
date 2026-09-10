@@ -16,7 +16,7 @@ Technologies I've used across products, client projects, coursework, and experim
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Fastify, FastAPI, Django, Flask, REST APIs, WebSockets, microservices
 - **Databases & data:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Prisma, Redis
-- **AI:** LangGraph, LangChain, RAG, AI agents, embeddings, evals
+- **AI:** LangGraph, LangChain, RAG, AI agents, embeddings, evals, MLflow, Langfuse
 - **Cloud & infrastructure:** AWS, Google Cloud (GCP), Docker, Terraform, GitHub Actions, Vercel
 - **Security:** OWASP, Burp Suite, pentesting
 - **Other:** Web3, Git
