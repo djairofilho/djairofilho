@@ -14,7 +14,7 @@ Technologies I've used across products, client projects, coursework, and experim
 
 - **Languages:** TypeScript, Python, Rust, JavaScript, C, C++, Java, Go, Solidity
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Fastify, FastAPI, Django, Flask, REST APIs, WebSockets
+- **Backend:** Node.js, Fastify, FastAPI, Django, Flask, REST APIs, WebSockets, microservices
 - **Databases & data:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Prisma, Redis
 - **AI:** LangGraph, LangChain, RAG, AI agents, embeddings, evals
 - **Cloud & infrastructure:** AWS, Google Cloud (GCP), Docker, Terraform, GitHub Actions, Vercel
