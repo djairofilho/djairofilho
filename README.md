@@ -12,7 +12,7 @@ I'm a full-stack and AI engineer building products and scalable systems.
 
 Technologies I've used across products, client projects, coursework, and experiments:
 
-- **Languages:** TypeScript, Python, JavaScript, C, C++, Java, Go, Solidity
+- **Languages:** TypeScript, Python, Rust, JavaScript, C, C++, Java, Go, Solidity
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Fastify, FastAPI, Django, Flask, REST APIs, WebSockets
 - **Databases & data:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Prisma, Redis
